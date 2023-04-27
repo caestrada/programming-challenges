@@ -1,5 +1,3 @@
-import fs from 'fs';
-import { hey } from './helper';
+import { sum } from "./sum";
 
-console.log(hey);
-console.log(fs);
+console.log('Sum: ', sum(1, 2));
