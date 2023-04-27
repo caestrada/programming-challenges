@@ -1,3 +1,3 @@
-export const maxValue = (nums: number[]) :number => {
-    // TODO
-}
+export const maxValue = (nums: number[]): number => {
+  // TODO
+};
