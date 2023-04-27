@@ -6,43 +6,43 @@ Solve this without using any built-in array methods.
 
 You can assume that the array is non-empty.
 
-test 0:
+test 00:
 
 ```
 maxValue([4, 7, 2, 8, 10, 9]); // -> 10
 ```
 
-test_01:
+test 01:
 
 ```
 maxValue([10, 5, 40, 40.3]); // -> 40.3
 ```
 
-test_02:
+test 02:
 
 ```
 maxValue([-5, -2, -1, -11]); // -> -1
 ```
 
-test_03:
+test 03:
 
 ```
 maxValue([42]); // -> 42
 ```
 
-test_04:
+test 04:
 
 ```
 maxValue([1000, 8]); // -> 1000
 ```
 
-test_05:
+test 05:
 
 ```
 maxValue([1000, 8, 9000]); // -> 9000
 ```
 
-test_06:
+test 06:
 
 ```
 maxValue([2, 5, 1, 1, 4]); // -> 5
