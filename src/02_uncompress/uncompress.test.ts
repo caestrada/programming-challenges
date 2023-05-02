@@ -7,7 +7,7 @@ const tests = [
   },
   {
     input: "4s2b",
-    output: "ccaaat",
+    output: "ssssbb",
   },
   {
     input: "2p1o5p",
