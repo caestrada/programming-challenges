@@ -1,4 +1,4 @@
-import { isPrime } from "./is-prime";
+import { uncompress } from "./uncompress";
 
 const tests = [
   {
@@ -27,7 +27,7 @@ const tests = [
 describe("Uncompress", () => {
   tests.forEach((t, i) => {
     test(`Test ${i}`, () => {
-      expect(isPrime(t.input)).toBe(t.output);
+      expect(uncompress(t.input)).toBe(t.output);
     });
   });
 });
