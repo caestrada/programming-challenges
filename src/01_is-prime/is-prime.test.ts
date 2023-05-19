@@ -1,4 +1,4 @@
-import { isPrime } from "./is-prime";
+import { isPrime } from "./is-prime.solution";
 
 const tests = [
   {
