@@ -1,4 +1,4 @@
-import { maxValue } from "./max-value";
+import { maxValue } from "./max-value.solution";
 
 const tests = [
   {
